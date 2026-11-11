@@ -1,0 +1,2 @@
+-- Pendiente: perfiles, bots, servidores, votos, reseñas e insignias.
+-- Definir políticas RLS antes de almacenar datos reales.
